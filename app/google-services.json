@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "927424630935",
+    "project_id": "ski-led",
+    "storage_bucket": "ski-led.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:927424630935:android:90918b0abb90bc0f7fd9d2",
+        "android_client_info": {
+          "package_name": "com.example.firstapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "927424630935-eu9vpkm7hgpbgi8ia44qjqm5m2tufon0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBqOXflvpIlaRQYspCMzqctTy0Dt90mlY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "927424630935-eu9vpkm7hgpbgi8ia44qjqm5m2tufon0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
